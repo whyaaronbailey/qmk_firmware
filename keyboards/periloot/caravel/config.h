@@ -1,0 +1,3 @@
+#define TAPPING_TERM 300
+#define RAW_USAGE_ID 1
+#define RAW_USAGE_PAGE 0
